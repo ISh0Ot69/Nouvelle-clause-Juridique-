@@ -14,8 +14,8 @@ $$Valeur_{Globale} = 0.03 \times [(\frac{m_c}{m_i} \cdot c^2) + G_q]$$
 
 ## 🏛️ CHARTE ÉCONOMIQUE
 Les 3% sont répartis sur 3 pôles :
-1. Pôle CERN (Recherche) : 1%
-2. Pôle Banques (Transactions) : 1%
-3. Pôle Énergie (Matière) : 1%
+1. Pôle CERN (Recherche) : 3%
+2. Pôle Banques (Transactions) : 3%
+3. Pôle Énergie (Matière) : 3%
 
 **"Visible pour tous, mais impénétrable pour les requins."**
